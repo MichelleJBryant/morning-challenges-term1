@@ -20,3 +20,16 @@
 #    through all the commands you need to write. 
 #
 #    Keep it as simple as you can.
+
+#calculate the width of packing box divided by the phone box width
+packing_box_width = 32
+phone_box_width = 5
+Width.to_i =
+
+packing_box_length =
+phone_box_length =
+Length.to_i =
+
+packaging_box_height =
+phone_box_height =
+Height = 
